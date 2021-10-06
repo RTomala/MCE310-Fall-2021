@@ -1,4 +1,4 @@
-# MCE310 - Fundamentals of Mechatronics Engineering Lab
+# MCE310 - Fundamentals of Mechatronics Engineering
 # Assignment #1
 
 <p align="center">Vaughn College of Aeronautics and Technology</p>
