@@ -2,9 +2,11 @@
 # Assignment #1
 
 <p align="center">Vaughn College of Aeronautics and Technology</p>
-<p align="center">Engineering and Technology</p>
+<p align="center">Engineering and Technology - Fall 2021</p>
+<p align="center">Due: Oct 13, 2021</p>
 
-#### Question #1 - Calculating Payroll
+
+### Question #1 - Calculating Payroll
 Write a program that calculates the gross pay for someone earning an hourly wage.
 Input:
 - the hourly rate of pay
@@ -18,7 +20,7 @@ Example Output:
 Employees Gross Pay is $250
 ```
 
-#### Question #2 - Converting Pounds to Kilograms
+### Question #2 - Converting Pounds to Kilograms
 Write a program that converts a weight expressed in pounds into kilograms.
 Input:
 - weight in pounds
@@ -30,7 +32,7 @@ Example Output:
 Your weight is 134lbs which is equivalent to 60.9kg
 ```
 
-#### Question #3 - Converting Fahrenheit to Celsius
+### Question #3 - Converting Fahrenheit to Celsius
 Write a program that converts temperature from Fahrenheit to Celsius.
 Input:
 - temperature in Fahrenheit
